@@ -1,0 +1,9 @@
+requests
+python_telegram_bot
+redis
+cachetools
+dateutils
+leather
+cairosvg
+dateparser
+bidict
